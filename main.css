@@ -1,0 +1,59 @@
+/* Welcome message */
+.welcome-message {
+  font-size: 24px;
+  }
+  
+  /* Welcome image */
+  .welcome-img {
+  width: 100%;
+  }
+  
+  /* Left and right columns */
+  .left-col {
+  width: 50%;
+  float: left;
+  padding: 0 10px;
+  }
+  .right-col {
+  width: 50%;
+  float: right;
+  padding: 0 10px;
+  }
+  
+  /* Course section */
+  h2 {
+  text-align: center;
+  margin-bottom: 30px;
+  }
+  h3 {
+  text-align: center;
+  margin-bottom: 20px;
+  }
+  .view-courses-btn {
+  text-align: center;
+  margin-top: 20px;
+  }
+  .view-courses-btn button {
+  background-color: #007bff;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  text-transform: uppercase;
+  }
+  .view-courses-btn button:hover {
+  background-color: #0069d9;
+  cursor: pointer;
+  }
+  
+  /* Footer */
+  footer {
+  background-color: #f0f8ff;
+  padding: 20px;
+  width: 100%;
+  }
+  
+  /* Other */
+  .container {
+  margin-top: 50px;
+  }
